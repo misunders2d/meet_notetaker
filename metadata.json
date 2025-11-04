@@ -1,0 +1,7 @@
+{
+  "name": "Google Meet Echo Add-on",
+  "description": "An add-on for Google Meet that accepts voice or text from participants and echoes it back to the chat, prefixed with the participant's name.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
